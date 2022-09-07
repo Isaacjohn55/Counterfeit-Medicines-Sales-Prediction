@@ -13,3 +13,5 @@ Test Dataset = counterfeit_test.csv
 
 Formal Problem Statement:
 Your task here is to build predictive model for predicting sales figures given other information related to counterfeit medicine selling operations. You need to build your model on Train data. Test data doesnt have response column, you need to predict those values. 
+
+After data processing best score came out with Decision Tree Regressor and Mean Absolute Error came out = 756.66
